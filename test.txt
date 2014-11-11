@@ -1,0 +1,3 @@
+touch コマンドで作ったファイルです
+
+$ touch test.txt
